@@ -92,9 +92,8 @@ After running `setup_database.sql`, use any of the pre-configured accounts:
 
 ---
 
-## 📄 CV / Resume Bullet Points
-
-If you are adding this project to your CV or Resume, here is a recruiter-ready summary:
+##  summary:
+ 
 
 **Super Shop Management & POS System** | *C#, WinForms, MS SQL Server, iTextSharp*
 - Developed a desktop Point of Sale (POS) and store management application featuring role-based authentication (Admin, Manager, Salesman) and SQL Server database integration.
